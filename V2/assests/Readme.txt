@@ -1,0 +1,1 @@
+all your assets should be local, not CDN
