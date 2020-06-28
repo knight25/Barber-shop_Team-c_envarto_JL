@@ -59,9 +59,12 @@ color: #FFFFFF;
   display: flex;
   align-items: center;
 }
-.about-image img{
-width: 773.27px;
+.about-image {
+width: 100%;
 margin-right: 30px;
+}
+.about-text {
+  width: 30%;
 }
 .about-text h2{
 font-style: normal;
@@ -94,7 +97,7 @@ color: #FFFFFF;
   .about-us {
     display: block;
   }
-  .about-image img {
+  .about-image {
     width: 100% !important;
     margin-right: auto;
   }
@@ -120,6 +123,6 @@ color: #FFFFFF;
     margin-top: 100px;
   }
   .about-image img {
-    width: 450px;
+    width: 80%;
   }
 }
